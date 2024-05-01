@@ -1,0 +1,22 @@
+{
+  "name": "currency_converter_by_hm",
+  "version": "1.2.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.12.8",
+    "inquirer": "^9.2.20",
+    "install": "^0.13.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
